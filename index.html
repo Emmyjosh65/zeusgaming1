@@ -4,22 +4,97 @@
   <title>Zeus Gaming</title>
 
   <style>
-    body {
-      background: url('https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=2070') no-repeat center center fixed;
-      background-size: cover;
-      color: white;
-      font-family: Arial;
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
     }
 
-    h1 {
-      text-align: center;
-      margin-top: 100px;
-      font-size: 60px;
+    body{
+      font-family: Arial, sans-serif;
+      background:#111;
+      color:white;
+    }
+
+    .hero{
+      height:100vh;
+      background:url('https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=2070') center/cover no-repeat;
+      display:flex;
+      flex-direction:column;
+      justify-content:center;
+      align-items:center;
+      text-align:center;
+      padding:20px;
+    }
+
+    .hero h1{
+      font-size:60px;
+      margin-bottom:20px;
+      text-shadow:0 0 20px black;
+    }
+
+    .hero p{
+      font-size:20px;
+      max-width:600px;
+      text-shadow:0 0 10px black;
+    }
+
+    .btn{
+      margin-top:25px;
+      padding:15px 30px;
+      background:#00bfff;
+      color:white;
+      text-decoration:none;
+      border-radius:10px;
+      font-weight:bold;
+    }
+
+    .content{
+      padding:40px 20px;
+    }
+
+    .game-card{
+      background:#1e1e1e;
+      padding:20px;
+      margin-bottom:20px;
+      border-radius:10px;
     }
   </style>
 </head>
 
 <body>
-  <h1>ZEUS GAMING</h1>
+
+  <section class="hero">
+    <h1>ZEUS GAMING</h1>
+
+    <p>
+      Play epic action games online with Zeus Gaming.
+      Explore adventures, shooters, racing games and more.
+    </p>
+
+    <a class="btn" href="https://wa.me/2349066760078">
+      Contact Owner
+    </a>
+  </section>
+
+  <section class="content">
+
+    <div class="game-card">
+      <h2>Action Games</h2>
+      <p>Play intense shooting and battle games.</p>
+    </div>
+
+    <div class="game-card">
+      <h2>Adventure Games</h2>
+      <p>Explore open worlds and exciting missions.</p>
+    </div>
+
+    <div class="game-card">
+      <h2>Racing Games</h2>
+      <p>Drive fast cars and compete for victory.</p>
+    </div>
+
+  </section>
+
 </body>
 </html>
