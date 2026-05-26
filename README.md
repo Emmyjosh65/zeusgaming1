@@ -253,7 +253,27 @@ some of the mods made for them. [[source]](https://gitlab.com/Dringgstein/Comman
 - **[OpenHV](https://www.openhv.net)** - An Open Source Pixelart Science-Fiction Real-Time-Strategy game. [[source]](https://github.com/OpenHV/OpenHV)
 
 - **[OpenRA](https://www.openra.net)** - [Command & Conquer](https://en.wikipedia.org/wiki/Command_%26_Conquer), [Dune 2000](https://en.wikipedia.org/wiki/Dune_2000) and [Red Alert](https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert) rebuild for the Modern Era. [[source]](https://github.com/OpenRA/OpenRA)
+## Browser / Playable Open-Source Games
 
+- **[OpenArena](http://openarena.ws/)** - Free open-source arena shooter inspired by Quake III. [[source]](https://github.com/OpenArena) [[download]](http://openarena.ws/download.php)
+
+- **[Battle for Wesnoth](https://www.wesnoth.org/)** - Fantasy turn-based strategy game with campaigns and multiplayer. [[source]](https://github.com/wesnoth/wesnoth) [[play]](https://wesnoth.org/start/)
+
+- **[Mindustry](https://mindustrygame.github.io/)** - Factory-building tower defense game. [[source]](https://github.com/Anuken/Mindustry) [[download]](https://github.com/Anuken/Mindustry/releases)
+
+- **[Veloren](https://veloren.net/)** - Multiplayer voxel RPG inspired by Cube World. [[source]](https://github.com/veloren/veloren) [[play]](https://veloren.net/download/)
+
+- **[SuperTuxKart](https://supertuxkart.net/)** - Open-source kart racing game. [[source]](https://github.com/supertuxkart/stk-code) [[download]](https://supertuxkart.net/Download)
+
+- **[Xonotic](https://xonotic.org/)** - Fast-paced arena FPS. [[source]](https://gitlab.com/xonotic/xonotic) [[download]](https://xonotic.org/download/)
+
+- **[0 A.D.](https://play0ad.com/)** - Ancient warfare RTS game. [[source]](https://gitea.wildfiregames.com/0ad/0ad) [[download]](https://play0ad.com/download/)
+
+- **[Minetest](https://www.minetest.net/)** - Open-source voxel sandbox game inspired by Minecraft. [[source]](https://github.com/minetest/minetest) [[download]](https://www.minetest.net/downloads/)
+
+- **[Endless Sky](https://endless-sky.github.io/)** - Space trading and combat game. [[source]](https://github.com/endless-sky/endless-sky) [[download]](https://github.com/endless-sky/endless-sky/releases)
+
+- **[The Dark Mod](https://www.thedarkmod.com/main/)** - Stealth game inspired by Thief series. [[source]](https://svn.thedarkmod.com/publicsvn/darkmod_src/trunk) [[download]](https://www.thedarkmod.com/downloads/)
 - **Permafrost Engine** - An OpenGL 3.3 Real Time Strategy game engine written in C. [[source]](https://github.com/eduard-permyakov/permafrost-engine)
 
 - **Standard Of Iron** - A modern real-time strategy (RTS) game engine built with C++20, Qt 6, and OpenGL 3.3 Core. [[source]](https://github.com/djeada/Standard-of-Iron)
